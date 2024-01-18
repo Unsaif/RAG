@@ -1,0 +1,3 @@
+Phenylketonuria (PKU) is an autosomal recessive inborn error of metabolism resulting from a deficiency of phenylalanine hydroxylase (PAH; 612349), an enzyme that catalyzes the hydroxylation of phenylalanine to tyrosine, the rate-limiting step in phenylalanine catabolism. If undiagnosed and untreated, phenylketonuria can result in impaired postnatal cognitive development resulting from a neurotoxic effect of hyperphenylalaninemia (Zurfluh et al., 2008).
+
+See Scriver (2007) and Blau et al. (2010) for detailed reviews of PKU.
