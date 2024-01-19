@@ -1,0 +1,15 @@
+Matalon et al. (1977) reported high levels of phenylalanine hydroxylase in placenta and suggested use of placental biopsy in prenatal diagnosis. 
+
+Woo (1983) identified a DNA restriction polymorphism detected by a phenylalanine hydroxylase cDNA probe and tentatively demonstrated the feasibility of carrier detection and prenatal diagnosis, using the haplotypes defined by the DNA polymorphism.
+
+By the use of RFLPs related to the phenylalanine hydroxylase gene, Lidsky et al. (1985) achieved prenatal diagnosis of a PKU homozygote and a PKU heterozygote. Riess et al. (1987) described experience with prenatal diagnosis of PKU by RFLP analysis. They pointed out that in those cases in which the affected child had died but a phenotypically normal brother or sister is available for investigation, full genetic predictability could be obtained only if this child proved to be homozygously healthy in the phenylalanine-loading heterozygote test. 
+
+DiLella et al. (1988) showed that the 2 mutant alleles of PAH common among Caucasians of northern European ancestry can be detected by direct analysis of genomic DNA after specific amplification of a DNA fragment by PCR. The results suggested that it is technically feasible to develop a program for carrier detection of the genetic trait in a population of individuals without a family history of PKU. 
+
+Ramus et al. (1992) used PCR amplification of the low levels of mRNA resulting from illegitimate transcription of the PAH gene in fibroblasts and Epstein-Barr virus-transformed lymphocytes to detect mutations in patients with PKU. 
+
+Taking advantage of the 'illegitimate' transcription of the PAH gene in circulating lymphocytes, Abadie et al. (1993) succeeded in making the DNA diagnosis of phenylketonuria. Furthermore, they identified 3 novel mutations in 2 patients. 
+
+Kalaydjieva et al. (1991) identified 3 silent mutations in the PAH gene, in codons 232, 245, and 385, linked to specific RFLP haplotypes in several Caucasian populations. All 3 mutations created a new restriction site and were easily detected on PCR-amplified DNA. The combined analysis of these markers and 1 or 2 PKU mutations formed a simple panel of diagnostic tests with full informativeness in a large proportion of PKU families. 
+
+Forrest et al. (1991) used a modification of the chemical cleavage of mismatch (CCM) method to identify mutations in PAH in PKU. They stated that 'judicious choice of probes gives the CCM method the potential to detect close to 100% of single-base mutations.' 

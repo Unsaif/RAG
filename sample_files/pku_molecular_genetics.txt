@@ -1,0 +1,5 @@
+The first PKU mutation identified in the PAH gene was a single base change (GT-to-AT) in the canonical 5-prime splice donor site of intron 12 (612349.0001). Gene transfer and expression experiments demonstrated that the splice donor site mutation resulted in abnormal PAH mRNA processing and loss of PAH activity (DiLella et al., 1986). 
+
+Eisensmith and Woo (1992) reviewed mutations and polymorphisms in the human PAH gene. About 50 of the mutations were single-base substitutions, including 6 nonsense mutations and 8 splicing mutations, with the remainder being missense mutations. Of the missense mutations, 12 apparently resulted from the methylation and subsequent deamination of highly mutagenic CpG dinucleotides. Recurrent mutations had been observed at several sites, producing associations with different haplotypes in different populations. Studies of in vitro expression showed significant correlations between residual PAH activity and severity of the disease phenotype. 
+
+For more detailed information on the molecular genetics of PKU and non-PKU hyperphenylalaninemia, see 612349.
