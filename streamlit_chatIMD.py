@@ -77,8 +77,7 @@ if prompt := st.chat_input("What is PKU?"):
     st.session_state.messages.append({"role": "user", "content": prompt})
 
 # Streamed response emulator
-def response_generator(query):
-    response = query_data(query)[1]
+def response_generator(response):
     for line in response.splitlines():
         for word in line.split():
             yield word + " "
@@ -87,8 +86,19 @@ def response_generator(query):
 
 # Display assistant response in chat message container
 with st.chat_message("assistant"):
-    with st.spinner("Thinking..."):
-        response = st.write_stream(response_generator(str(prompt)))
+    if prompt == None:
+        response = st.write_stream(response_generator("""
+                                                      Hello! 
+                                                      How can I assist you today with any questions or 
+                                                      concerns you may have regarding inherited metabolic diseases?
+                                                      """))
+    else:
+        with st.spinner("Thinking..."):
+            retrieval, response_text = query_data(prompt)
+            response = st.write_stream(response_generator(str(response_text)))
+            with st.expander("See Retrieved Document"):
+                st.write(str(retrieval))
+
 # Add assistant response to chat history
 st.session_state.messages.append({"role": "assistant", "content": response})
 
